@@ -1,2 +1,6 @@
-0×19. C - Stacks Queues - LIFO FIFO
-Another ALX team work but It seems I'm my own team member
+# 0x19. C - Stacks Queues - LIFO FIFO
+
+Collaborators:
+Tebiremen and Ademileke12
+
+ALX Team Work
