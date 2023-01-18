@@ -1,6 +1,6 @@
 # 0x19. C - Stacks Queues - LIFO FIFO
 
 Collaborators:
-Tebiremen and Ademileke12
+Adedolapo Adefaye 
 
 ALX Team Work
